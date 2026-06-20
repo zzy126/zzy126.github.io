@@ -6,17 +6,17 @@ permalink: /
 subtitle: 周征宇. Incoming Research Associate at <a href='https://www.dartmouth.edu/'>Dartmouth College</a>
 
 profile:
-align: right
-image: me.jpg
-image_circular: false # crops the image to make it circular
+    align: right
+    image: me.jpg
+    image_circular: false # crops the image to make it circular
 
-# address: >
+    # address: >
 
-# <p>Office address</p>
+    # <p>Office address</p>
 
-# <p>Dartmouth College</p>
+    # <p>Dartmouth College</p>
 
-# <p>Hanover, NH, USA</p>
+    # <p>Hanover, NH, USA</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
