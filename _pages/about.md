@@ -24,7 +24,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an incoming Research Associate at Dartmouth College. My current research interests lie broadly in machine learning theory and optimization, with a focus on matrix optimization, random matrix theory, model diagnosis, and loss landscape geometry.
+I am an incoming Research Associate at Dartmouth College, where I will be working with Prof. [Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/). My current research interests lie broadly in machine learning theory and optimization, with a focus on matrix optimization, random matrix theory, model diagnosis, and loss landscape geometry.
 
 Before joining Dartmouth, I completed my Ph.D. study in the School of Computer Science at [Wuhan University](https://en.whu.edu.cn/), advised by Prof. [Weiwei Liu](https://sites.google.com/site/weiweiliuhomepage). I received my B.S. degree in Mathematics from Wuhan University in 2021.
 
