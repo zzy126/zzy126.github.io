@@ -34,3 +34,7 @@ I am particularly interested in the following topics:
 * Model diagnosis and model comparison
 * Loss landscape geometry
 * Optimization and generalization in deep learning
+
+## Academic Service
+
+**Reviewer:** ICML, NeurIPS, JMLR, IEEE TPAMI, AISTATS, ICLR
