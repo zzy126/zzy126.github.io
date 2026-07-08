@@ -37,4 +37,6 @@ I am particularly interested in the following topics:
 
 ## Academic Service
 
-**Reviewer:** ICML, NeurIPS, JMLR, IEEE TPAMI, AISTATS, ICLR
+**Conference Reviewer:** ICML, NeurIPS, AISTATS, ICLR
+
+**Journal Reviewer:** JMLR, IEEE TPAMI, Biometrika
