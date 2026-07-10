@@ -619,6 +619,13 @@ footer.sticky-bottom {
         font-weight: bolder;
       }
 
+      .publication-highlight {
+        color: $red-color;
+        font-size: 1.05rem;
+        font-weight: 700;
+        margin: 0.1rem 0 0.15rem;
+      }
+
       .author {
         a {
           border-bottom: 1px dashed var(--global-theme-color);
