@@ -8,3 +8,7 @@
 
 "JMLR":
   url: "https://www.jmlr.org/"
+
+"NeurIPS":
+  url: "https://neurips.cc/"
+  color: "#f4511e"
