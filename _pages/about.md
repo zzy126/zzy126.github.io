@@ -40,3 +40,5 @@ I am particularly interested in the following topics:
 **Conference Reviewer:** ICML, NeurIPS, AISTATS, ICLR
 
 **Journal Reviewer:** JMLR, IEEE TPAMI, Biometrika
+
+<img src="{{ '/assets/img/I_review_JMLR.png' | relative_url }}" alt="I review for JMLR" width="150">
